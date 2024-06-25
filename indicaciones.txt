@@ -1,0 +1,8 @@
+para que funcione se debe de crear una base de datos en phpMyadmin de tipo utf8_spanish_ci
+llamada: login-register
+con 5 columnas llamadas:
+id (tipo int autoincrementable)
+nombre_completo (tipo var char, 270 limite)
+correo(var char, 270)
+usuario(var char, 60)
+contrasena(var char, 300)

@@ -1,0 +1,56 @@
+body {
+    background-color: #65798A;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+.container{
+    margin-top: 20px;
+}
+.navbar-dark .navbar-brand {
+    color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link.btn {
+    color: black;
+}
+.nav-item{
+    border-radius: 80px;
+}
+.main-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #9D8DF1;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.text-content h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.text-content p {
+    margin-top: 20px;
+    font-size: 1.2em;
+}
+
+.btn-start {
+    margin-top: 30px;
+    padding: 10px 20px;
+    background-color: white;
+    border: none;
+    color: black;
+    font-size: 1em;
+    border-radius: 80px;
+    cursor: pointer;
+}
+
+.image-content img {
+    width: 100%;
+    border-radius: 20px;
+}
